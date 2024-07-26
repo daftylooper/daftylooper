@@ -1,5 +1,6 @@
 # 💫 About Me:
-### Hi there 👋<br><br>I'm Pranav! I'm a freshly minted CSE senior. I love making, hacking and breaking stuff. I really find it hard to choose favourites in the field of CSE, but certain things like <b>distributed systems</b>, <b>databases</b> and peer-to-peer applications such as a <b>decentralized web</b> tingle me, most of my interest lies in this field. I dabble myself in artificial intelligence and actively work on being a good full stack developer.
+### Hi there 👋<br><br>
+I'm Pranav! I'm a freshly minted CSE senior. I love making, hacking and breaking stuff. I really find it hard to choose favourites in the field of CSE, but certain things like <b>distributed systems</b>, <b>databases</b> and peer-to-peer applications such as a <b>decentralized web</b> tingle me, most of my interest lies in this field. I dabble myself in artificial intelligence and actively work on being a good full stack developer.
 
 
 # 💻 Tech Stack:
